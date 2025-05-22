@@ -42,11 +42,11 @@ gcc caminho/para/o/arquivo.c -o nome_do_programa
   
 ## ▶️ Como exportar arquivos do Replit para o GitHub
  
-- 1. Faça um commit das suas alterações na pasta 📁.git 📂COMMIT_EDITMSG
+1. Faça um commit das suas alterações na pasta 📁.git 📂COMMIT_EDITMSG
 
-- 2. Salve as alterações clicando com o botão direito em 📂COMMIT_EDITMSG "Save file"
+2. Salve as alterações clicando com o botão direito em 📂COMMIT_EDITMSG "Save file"
 
-- 3. Clone o repositório GitHub no seu computador (caso ainda não tenha):
+3. Clone o repositório GitHub no seu computador (caso ainda não tenha):
 ```bash
 git clone https://github.com/seu-usuario/aula.ceub.git
 cd aula.ceub
