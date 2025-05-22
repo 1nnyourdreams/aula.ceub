@@ -22,6 +22,9 @@ Códigos desenvolvidos durante as aulas no CEUB.
 #### 📂 `aula4/`
 - `exercicio1.c` a `exercicio19.c` : Série de exercícios
 
+#### 📂 `aula5/`
+- `exercicio1.c a exercicio4.c` : Série de exercícios (geometria) desenvolvidos em aula
+
 #### 📂 `prova1/`
 - `exercicio1.c` a `exercicio5.c` : Primeira avaliação da disciplina
 
