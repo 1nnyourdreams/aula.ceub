@@ -52,7 +52,7 @@ git clone https://github.com/seu-usuario/aula.ceub.git
 cd aula.ceub
 ```
 
-- 4. Faça o versionamento com Git:
+4. Faça o versionamento com Git:
 No terminal Shell, digite os seguintes comandos:
 ```bash
 git add .
